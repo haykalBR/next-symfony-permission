@@ -10,7 +10,7 @@
         "acl",
         "security"
     ],
-    "minimum-stability": "master",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "authors": [
         {
