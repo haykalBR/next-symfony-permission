@@ -16,7 +16,9 @@
             "email": "haikelbrinis@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=7.2",
+    },
     "autoload": {
         "psr-4": {
             "next\\SymfonyPermissionBundle\\": "src/"
