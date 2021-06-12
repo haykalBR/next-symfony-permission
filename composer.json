@@ -1,0 +1,25 @@
+{
+    "name": "next/symfony-permission",
+    "keywords": [
+        "next",
+        "symfony",
+        "permission",
+        "permissions",
+        "role",
+        "roles",
+        "acl",
+        "security"
+    ],
+    "authors": [
+        {
+            "name": "haikel",
+            "email": "haikelbrinis@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "next\\SymfonyPermissionBundle\\": "src/"
+        }
+    }
+}
