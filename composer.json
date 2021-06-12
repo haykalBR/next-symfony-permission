@@ -10,6 +10,8 @@
         "acl",
         "security"
     ],
+    "minimum-stability": "master",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "haikel",
@@ -19,6 +21,7 @@
     "require": {
         "php": ">=7.2"
     },
+
     "autoload": {
         "psr-4": {
             "next\\SymfonyPermissionBundle\\": "src/"
